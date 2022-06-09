@@ -13,3 +13,6 @@ Top up in tru time needs to be updated only till the time we are working from ho
 Time sheet needs to be submitted every Friday. Excluding a break of 1 hour.
 In Time sheet we update only 9 hours for the hour we have worked.
 The details to submit the time sheet needs to be taken from the reporting manager. If you are on pool or Bench speak with your home manager for the details.
+
+
+Additional Link
